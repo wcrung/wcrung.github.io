@@ -68,7 +68,7 @@ p {
 	font-size:14px;
 	font-family: 'Poppins', sans-serif;
 }
-img{border:none;max-width:auto; height:auto;}
+img{border:none;max-width:100%; height:100%;}
 ul{
 	padding: 0;
     margin: 0 auto;
