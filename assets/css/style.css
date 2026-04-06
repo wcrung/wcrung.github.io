@@ -76,12 +76,6 @@ ul{
 	object-fit: contain;
 }
 
-.your-image-container{
-	width: 300px;
-	height: 300px;
-	overflow: visible;
-}
-
 ul li {
 	list-style: none;
 	
